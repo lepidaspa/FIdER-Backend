@@ -6,6 +6,8 @@
 Welcome to FIdER-Backend's documentation!
 =========================================
 
+This is the documentation for the FIdER Backend
+
 Contents:
 
 .. toctree::
